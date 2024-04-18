@@ -545,5 +545,3 @@ Any further updates/changes will be added below.
 * 01 Dec 2020 - added notebook 02 (90% polished), start preparing slides for 02
 * 27 Nov 2020 - polished notebook 01, made slides for notebook 01
 * 26 Nov 2020 - polished notebook 00, made slides for notebook 00
-#   t f _ d e p l o y  
- 
